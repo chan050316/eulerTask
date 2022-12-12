@@ -1,7 +1,7 @@
 let result = 0;
 
 const oneToNine = [3, 3, 5, 4, 4, 3, 5, 5, 4] // 1~9
-const elevenToNineteen = [6, 6, 8, 8, 7, 7, 9, 9, 8] // 11~19
+const elevenToNineteen = [6, 6, 8, 8, 7, 7, 9, 8, 8] // 11~19
 const multiplyTen = [6, 6, 6, 5, 5, 7, 6, 6] // 0-20-30 --- 90
 const hundred = 7 // hundred
 const and = 3 // and
