@@ -40,10 +40,5 @@ for (i = 1; i <= upperLimit; i++) {
     sum += i;
   }
 }
-// for (i = 1; i <= upperLimit; i++) {
-//   if (!canBeWrittenAsAbundant[i]) {
-//     sum += i;
-//   }
-// }
 
 console.log(sum);
