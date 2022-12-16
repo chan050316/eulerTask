@@ -46,5 +46,5 @@ const getFirstFibTermNumberWithDigits = (n) => {
   return counter;
 };
 
-console.log(getFirstFibTermNumberWithDigits(3));
-// console.log(getFirstFibTermNumberWithDigits(1000));
+// console.log(getFirstFibTermNumberWithDigits(3));
+console.log(getFirstFibTermNumberWithDigits(1000));
