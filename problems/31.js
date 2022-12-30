@@ -1,7 +1,6 @@
 const pence = [1, 2, 5, 10, 20, 50, 100, 200];
 
 function slicePound(pound, i) {
-  console.log(pound, i);
   if (i === 1) {
     return Math.floor(pound / 2) + 1;
   }
